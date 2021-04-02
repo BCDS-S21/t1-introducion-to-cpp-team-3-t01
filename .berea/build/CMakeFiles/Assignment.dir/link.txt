@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Assignment.dir/home/runner/t1-introducion-to-cpp-team-3-t01/main.cpp.o  -o Assignment -lpthread /usr/lib/x86_64-linux-gnu/libSM.so /usr/lib/x86_64-linux-gnu/libICE.so /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 

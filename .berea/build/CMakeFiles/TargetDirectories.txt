@@ -1,0 +1,3 @@
+/home/runner/t1-introducion-to-cpp-team-3-t01/.berea/build/CMakeFiles/rebuild_cache.dir
+/home/runner/t1-introducion-to-cpp-team-3-t01/.berea/build/CMakeFiles/Assignment.dir
+/home/runner/t1-introducion-to-cpp-team-3-t01/.berea/build/CMakeFiles/edit_cache.dir
